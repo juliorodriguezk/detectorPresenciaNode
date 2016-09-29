@@ -1,0 +1,29 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+#descon, #des {
+    display: none;
+}
+
+.boton {
+    background-color: #2dc234;
+    background-image: -webkit-linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+    background-image: -moz-linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+    background-image: -o-linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+    background-image: linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+    -ms-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 8px 0 #197b1d, 0 10px 20px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 8px 0 #197b1d, 0 10px 20px rgba(0, 0, 0, .4);
+    box-shadow: 0 8px 0 #197b1d, 0 10px 20px rgba(0, 0, 0, .4);
+    color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    line-height: 1;
+    padding: 15px 25px;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px rgba(25, 123, 29, .7);
+}
